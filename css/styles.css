@@ -163,7 +163,7 @@ p {
 
 .cta-title {
     font-family: "Montserrat";
-    font-weight: 800;
+    font-weight: 900;
     line-height: 1.5;
     font-size: 3.2rem;
 }
@@ -172,7 +172,7 @@ p {
 
 #footer {
     text-align: center;
-    padding: 5%;
+    padding: 7% 15%;
 }
 
 .footer-icon {
