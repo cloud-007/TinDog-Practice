@@ -186,3 +186,9 @@ p {
 .copyright {
     font-size: 1.5rem;
 }
+
+.ref {
+    color: #afafaf;
+    font-style: italic;
+    text-decoration: none;
+}
